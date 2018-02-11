@@ -9,4 +9,16 @@
 **Thoughts:**  
 I'm starting to appreciate the dynamics of python as multi-purpose programming language. Coming from a php background, to me DJango is easier, better, more secure and very robust. I can't wait to develop more projects
 
-**Link to work:** [Todo List](http://www.example.com)
+**Link to work:**  
+[Todo List](https://github.com/r0b0tt/todo-list)
+
+### Day 1: February 10, 2017  
+**Today's Progress**  
+1. Started learning reactJS.
+2. Worked some more on my todo-list.  
+
+**Thoughts:**  
+I went through the official react tutorial but I didn't really grasp the fundamentals of react. I'm starting a new tutorial on 12th which I hope will be better.  
+  
+**Link to work:**  
+[Todo List](https://github.com/r0b0tt/todo-list)
