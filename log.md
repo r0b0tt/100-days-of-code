@@ -37,4 +37,15 @@ I went through the official react tutorial but I didn't really grasp the fundame
 1. Started working on a web app for a side project I've been putting off for a while.  
 
 **Thoughts:**  
-I worked with CSS variables for the first time but I still prefer SASS variables.
+I worked with CSS variables for the first time but I still prefer SASS variables.  
+
+### Day 3: February 12, 2017  
+
+**Today's Progress**  
+
+1. Learned about webpack and babel.  
+2. Worked on my web app. Added a responsive side nav.
+3. My team made a presentation(not the actual competition, more of talking about our idea) about smart homes for an intervarsity competition we applied.   
+
+**Thoughts:**  
+Javascript is awesome and messed up in its own way. But I love it!
