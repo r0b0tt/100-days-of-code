@@ -50,7 +50,7 @@ I worked with CSS variables for the first time but I still prefer SASS variables
 **Thoughts:**  
 Javascript is awesome and messed up in its own way. But I love it! I had a hard time configuring webpack though.  
 
-### Day 3: February 12, 2018  
+### Day 4: February 12, 2018  
 
 **Today's Progress**  
 1. Learned about components, state and props in ReactJS.
