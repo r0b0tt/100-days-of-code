@@ -50,7 +50,7 @@ I worked with CSS variables for the first time but I still prefer SASS variables
 **Thoughts:**  
 Javascript is awesome and messed up in its own way. But I love it! I had a hard time configuring webpack though.  
 
-### Day 4: February 12, 2018  
+### Day 4: February 13, 2018  
 
 **Today's Progress**  
 1. Learned about components, state and props in ReactJS.
@@ -58,4 +58,22 @@ Javascript is awesome and messed up in its own way. But I love it! I had a hard 
 3. Finished the frontend part for my side project.  
 
 **Thoughts:**  
-I'm starting to grasp the fundamentals of react and it's pretty interesting.
+I'm starting to grasp the fundamentals of react and it's pretty interesting.  
+
+### Day 5: February 14, 2018
+**Note**  
+Valentine's is overrated! Don't wait for valentines to show love. The world is filled with hate but keep erasing it somehow.  
+
+**Today's Progress**  
+1. Learned about validating props in React using the 'prop-types' library.  
+2. Finished the design for the smart home mobile app.  
+3. Learned about fullPageJs.  
+
+### Day 6: February 15, 2018  
+
+**Today's Progress**  
+1. Designed the smart home web app.
+2. Created a few templates using fullPageJs.
+
+**Thoughts**
+I think I've taken a more time than necessary in designing the smart home web app considering the tight deadline. I hope I'll finish it up tomorrow so that I can code it.  
