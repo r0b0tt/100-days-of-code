@@ -77,3 +77,8 @@ Valentine's is overrated! Don't wait for valentines to show love. The world is f
 
 **Thoughts**
 I think I've taken a more time than necessary in designing the smart home web app considering the tight deadline. I hope I'll finish it up tomorrow so that I can code it.  
+
+### Day 7: February 16, 2018
+
+**Today's Progress**
+1. Learned about React Component API, Component Lifecycle, React Forms, Events, Refs and Keys.
