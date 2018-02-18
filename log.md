@@ -100,3 +100,8 @@ I'm thinking it;s time I adopted cloud technologies for development. I was a bit
 
 **Today's Progress**  
 1. Finished coding the basic implementation of the smart home web app. I'll meet with my team members tomorrow for feedback before I finish it.  
+2. Started an android project. Implemented the basic features and init.  
+
+**Thoughts**  
+I've not done android in a while and I've become a little rusty. I hope to get back on track.  
+
