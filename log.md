@@ -81,4 +81,22 @@ I think I've taken a more time than necessary in designing the smart home web ap
 ### Day 7: February 16, 2018
 
 **Today's Progress**
-1. Learned about React Component API, Component Lifecycle, React Forms, Events, Refs and Keys.
+1. Learned about React Component API, Component Lifecycle, React Forms, Events, Refs and Keys.  
+2. Finished the design of the smart home web app.  
+
+**Thoughts**  
+Adobe really killed it with Adobe XD. I personally found photoshop a bit difficult to design and prototype with.  
+
+### Day 8: February 17, 2018  
+
+**Today's Progress**  
+1. Attended a Google Cloud Study Jam meetup at my campus. Learned about Kubernetes and Docker.  
+2. Started coding the smart home web app.  
+
+**Thoughts**
+I'm thinking it;s time I adopted cloud technologies for development. I was a bit hesitant beacuse I thought the learning curve would take up much of my time but today I found out it was really easy. Though I'm opting for AWS instead of GCP.  
+
+### Day 9: February 18, 2018
+
+**Today's Progress**  
+1. Finished coding the basic implementation of the smart home web app. I'll meet with my team members tomorrow for feedback before I finish it.  
