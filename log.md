@@ -104,4 +104,12 @@ I'm thinking it;s time I adopted cloud technologies for development. I was a bit
 
 **Thoughts**  
 I've not done android in a while and I've become a little rusty. I hope to get back on track.  
+  
+### Day 10: February 19, 2018  
 
+**Today's Progress**
+1. Implemented the tariffs class on my android project and the calculation of rates for one service(Eazzy Banking).  
+2. Solved a bug on the smart home web app that was making the navbar position to vary and even dissappear.  
+
+**Thoughts**  
+I had so much fun coding android today. I also replaced some if statements with switch since the values were definite.
