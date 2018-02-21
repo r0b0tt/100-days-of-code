@@ -112,4 +112,13 @@ I've not done android in a while and I've become a little rusty. I hope to get b
 2. Solved a bug on the smart home web app that was making the navbar position to vary and even dissappear.  
 
 **Thoughts**  
-I had so much fun coding android today. I also replaced some if statements with switch since the values were definite.
+I had so much fun coding android today. I also replaced some if statements with switch since the values were definite.  
+
+### Day 11: February 20, 2018
+
+**Today's Progress**  
+1. Learned about react router flux, redux, animations and higher order components.  
+2. Implemented the calculation of rates for the other services in my app (M-Pesa and Airtel Money).  
+
+**Thoughts**
+Finished the react tutorial. Now on to creating awesome projects with it! Gotta start react native now as I practice react. This year it's all about javascript and maybe blockchain.
