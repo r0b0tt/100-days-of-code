@@ -121,4 +121,27 @@ I had so much fun coding android today. I also replaced some if statements with 
 2. Implemented the calculation of rates for the other services in my app (M-Pesa and Airtel Money).  
 
 **Thoughts**
-Finished the react tutorial. Now on to creating awesome projects with it! Gotta start react native now as I practice react. This year it's all about javascript and maybe blockchain.
+Finished the react tutorial. Now on to creating awesome projects with it! Gotta start react native now as I practice react. This year it's all about javascript and maybe blockchain.  
+
+### Day 12: February 21, 2018
+
+**Today's Progress**
+1. Worked on the smart home web app alot. Made it responsive and finished it.  
+
+**Thoughts**
+Not excited about fullPageJs anymore. It breaks alot of custom stuff on the website.   
+
+### Day 13: February 22, 2018  
+
+**Today's Progress**  
+1. Did some final touches on the smart home website. Added a custom animation too.  
+2. Went to the competition and presented our work.  
+
+**Thoughts**  
+Well we tried our best but didn't win. I learn't alot though from the people around. I can't wait for next year's edition.  
+
+### Day 14: February 23, 2018  
+
+**Today's Progress**
+1. Worked on my android app.  
+2. Integrated adMob into the app.  
