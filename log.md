@@ -145,3 +145,13 @@ Well we tried our best but didn't win. I learn't alot though from the people aro
 **Today's Progress**
 1. Worked on my android app.  
 2. Integrated adMob into the app.  
+
+### Day 15: February 24, 2018
+
+**Today's Progress**  
+1. Worked on perfecting the design of the android app.  
+2. Learned more about android xml tags.  
+
+**Thoughts**  
+I just found out that my app looks good on high density screens but not on low... I'll solve that issue sooner not later since I'm a freak for responsiveness.
+
