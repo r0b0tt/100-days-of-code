@@ -159,8 +159,17 @@ I just found out that my app looks good on high density screens but not on low..
 
 **Today's Progress**  
 1. Solved the responsiveness issue on my app. I had to modify the design.  
-2. Created an options menu.  
+2. Created an options menu for the app.  
 
 **Thoughts**  
 Still having trouble creating custom designs on android. I'm on google alot. I hope I'll perfect it.  
+
+### Day 17: February 27, 2018  
+
+**Today's Progress**  
+1. Worked on the about activity of my app and trying to perfect the design.  
+
+**Thoughts**  
+Couldn't code yesterday... I had classes all day I was so tired. I slept at 9 lol. Anyway we are learning A.I this semester. So excited!!!
+
 
