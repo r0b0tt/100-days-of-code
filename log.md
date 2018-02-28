@@ -170,6 +170,16 @@ Still having trouble creating custom designs on android. I'm on google alot. I h
 1. Worked on the about activity of my app and trying to perfect the design.  
 
 **Thoughts**  
-Couldn't code yesterday... I had classes all day I was so tired. I slept at 9 lol. Anyway we are learning A.I this semester. So excited!!!
+Couldn't code yesterday... I had classes all day I was so tired. I slept at 9 lol. Anyway we are learning A.I this semester. So excited!!!  
+
+### Day 18: February 28, 2018
+
+**Today's Progress**  
+1. Started rewriting my mobile app's web app using react.  
+2. Solved a few bugs on my mobile app.  
+
+**Thoughts**  
+Integrating reactJS and zurb foundation is so frustrating!!!!!!!!!!!!!!!!! I decided not to and implement my own stuff.  
+
 
 
