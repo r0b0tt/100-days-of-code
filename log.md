@@ -138,7 +138,7 @@ Not excited about fullPageJs anymore. It breaks alot of custom stuff on the webs
 2. Went to the competition and presented our work.  
 
 **Thoughts**  
-Well we tried our best but didn't win. I learn't alot though from the people around. I can't wait for next year's edition.  
+We won!!!! I learn't alot though from the people around. I can't wait for next year's edition.  
 
 ### Day 14: February 23, 2018  
 
@@ -181,5 +181,22 @@ Couldn't code yesterday... I had classes all day I was so tired. I slept at 9 lo
 **Thoughts**  
 Integrating reactJS and zurb foundation is so frustrating!!!!!!!!!!!!!!!!! I decided not to and implement my own stuff.  
 
+### Day 19: March 1, 2018  
+
+**Today's Progress**  
+1. Worked on my react web app.  
+
+**Thoughts**  
+The react journey is somehow tedious but I must say I'm really enjoying it.  
+
+### Day 20: March 2, 2018 -> Day 27 March 9, 2018
+
+**Today's Progress**  
+1. I have been working on my Money Calculator app and I've finally published it on playstore.  
+2. I started learning the basics of React Native.  
+3. Worked on the money calculator React App.  
+
+**Thoughts**  
+I've been having some trouble using React together with native javascript but the React community is so helpful and I'm learning alot!
 
 
